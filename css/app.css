@@ -1,0 +1,253 @@
+header {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+header img {
+	height: 3rem;
+	border-radius: .25rem;
+}
+
+
+header .logo {
+	text-align: center;
+}
+
+header .search {
+	text-align: right;
+}
+
+
+
+
+
+body {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h1 {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+h2 {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #FBE432;
+}
+
+main {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.discover {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	background: url(../img/landscape1.jpg) no-repeat;
+	background-size: cover;
+	color: #FBE432;
+	border-radius: 1rem;
+	margin-bottom: 1rem;
+	overflow: hidden;
+}
+
+.discover .inner {
+background-color: rgba(25,27,95,.2);
+padding: 2rem;
+}
+
+
+}
+.discover button {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	height: 2rem;
+	width: 2rem;
+	color: #FBE432;
+}
+.viewcollection1 {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	background: url(../img/flower1.jpg) no-repeat;
+	background-size: cover;
+	color: #FBE432;
+	height: 18rem;
+	border-radius: 1rem;
+	margin-bottom: 1rem;
+	overflow: hidden;
+
+}
+
+.viewcollection1 .inner {
+background-color: rgba(25,27,95,.4);
+padding: 2rem;
+height: 18rem;
+}
+
+
+.viewcollection1 button {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	color: #FBE432;
+	position: absolute;
+	left:    2.5rem;
+	bottom:   5rem;
+	
+}
+.viewcollection2 {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	background: url(../img/flower1.jpg) no-repeat;
+	background-size: cover;
+	color: #FBE432;
+	height: 18rem;
+	border-radius: 1rem;
+	margin-bottom: 1rem;
+	overflow: hidden;
+
+}
+
+.viewcollection2 .inner {
+background-color: rgba(25,27,95,.4);
+padding: 2rem;
+height: 18rem;
+}
+.viewcollection2 button {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	color: #FBE432;
+	position: absolute;
+	left:    2.5rem;
+	bottom:   21rem;
+	
+}
+
+
+.vincentsstory {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	background: url(../img/portrait2.jpg) no-repeat;
+	background-size: cover;
+	color: #FBE432;
+	height: 18rem;
+	border-radius: 1rem;
+	margin-bottom: 1rem;
+	overflow: hidden;
+
+}
+
+.vincentsstory .inner {
+background-color: rgba(25,27,95,.4);
+padding: 2rem;
+height: 18rem;
+}
+
+.vincentsstory button {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	color: #FBE432;
+	position: absolute;
+	left:    2.5rem;
+	bottom:   2rem;
+	
+}
+
+.exhibitions {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	background: url(../img/flower2.jpg) no-repeat;
+	background-size: cover;
+	color: #FBE432;
+	height: 18rem;
+	border-radius: 1rem;
+	margin-bottom: 1rem;
+	overflow: hidden;
+
+}
+
+.exhibitions .inner {
+background-color: rgba(25,27,95,.4);
+padding: 2rem;
+height: 18rem;
+}
+
+.exhibitions button {
+	font-family: proxima-soft,sans-serif;
+	font-weight: 700;
+	color: #FBE432;
+	position: absolute;
+	left:    2.5rem;
+	bottom:   -17rem;
+	
+}
+
+.grid-container {
+	height:100%;
+}
+
+a:hover {
+	color: #FBE432;
+}
+
+
+
+
+
+footer {
+	font-size: 10pt;
+	color:#2B4892;
+}
+
+.footer-right {
+	text-align: right;
+}
+
+.reveal .menu {
+	color:#FBE432;
+	background-color: #2B4892;
+	height: 100%;
+	display: flex;
+	font-family: proxima-soft,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+.reveal .grid-x {
+	height: 100%;
+}
+.reveal .close-button {
+	align-content: left;
+	color: #FBE432;
+}
+.reveal .exampleModal1 {
+	height: 100%;
+}
+div .reveal {
+	padding: 0;
+	padding-left: 0:
+	padding-right: 0;
+}
+
+reveal-overlay .grid-x {
+	height: 100%;
+}
+
+
+a {
+	color: #FBE432;
+}
+
+img {
+	padding-bottom: 1rem;
+}
+
